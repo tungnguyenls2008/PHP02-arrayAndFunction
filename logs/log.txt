@@ -1,0 +1,8 @@
+[Mon Apr 06 08:26:47.327704 2020] [mpm_prefork:notice] [pid 13373] AH00163: Apache/2.4.41 (Debian) configured -- resuming normal operations
+[Mon Apr 06 08:26:47.327757 2020] [core:notice] [pid 13373] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 06 08:30:18.274357 2020] [mpm_prefork:notice] [pid 13373] AH00169: caught SIGTERM, shutting down
+[Mon Apr 06 08:30:18.375215 2020] [mpm_prefork:notice] [pid 14344] AH00163: Apache/2.4.41 (Debian) configured -- resuming normal operations
+[Mon Apr 06 08:30:18.375295 2020] [core:notice] [pid 14344] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 06 08:40:10.441545 2020] [mpm_prefork:notice] [pid 14344] AH00169: caught SIGTERM, shutting down
+[Mon Apr 06 08:40:10.541107 2020] [mpm_prefork:notice] [pid 14629] AH00163: Apache/2.4.41 (Debian) configured -- resuming normal operations
+[Mon Apr 06 08:40:10.541177 2020] [core:notice] [pid 14629] AH00094: Command line: '/usr/sbin/apache2'
